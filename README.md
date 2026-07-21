@@ -78,13 +78,8 @@ python run_best_model.py
 
 Chương trình trả về giá trị TPC dự đoán và độ không chắc chắn (độ lệch chuẩn) của mỗi mẫu.
 
-### 3. Đánh giá các mô hình
 
-```bash
-python results/evaluate_all_models.py
-```
-
-## Các mô hình được khảo sát
+## Các mô hình được khảo sát trong results
 
 - Response Surface Methodology (RSM) với đa thức bậc 2
 - Ridge, Lasso và ElasticNet
