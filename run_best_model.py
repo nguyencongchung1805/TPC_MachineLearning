@@ -30,10 +30,10 @@ print(f"Model loaded from: {MODEL_PATH}")
 # Thay thế các giá trị dưới đây bằng điều kiện thực nghiệm cần dự đoán
 # Cột: EtOH (%), Ratio (mL/g), Temperature (°C), Time (min)
 new_samples = pd.DataFrame({
-    "EtOH (%)":        [75, 60, 90, 60],
-    "Ratio (mL/g)":    [20, 16, 24, 20],
-    "Temperature (°C)":[75, 60, 90, 60],
-    "Time (min)":      [105, 60, 150, 90],
+    "EtOH (%)":        [75, 60, 90, 60, 76.15],
+    "Ratio (mL/g)":    [20, 16, 24, 20, 19.41],
+    "Temperature (°C)":[75, 60, 90, 60, 62],
+    "Time (min)":      [105, 60, 150, 90, 88.47],
 })
 
 print("\n=== INPUT ===")
