@@ -50,8 +50,6 @@ TPC_MachineLearning/
 │   ├── gpr_tuning.py            # Tinh chỉnh GPR
 │   └── *.csv                    # Kết quả đánh giá/tinh chỉnh
 ├── run_best_model.py             # Dự đoán bằng mô hình GPR tốt nhất
-├── create_model_report.py        # Tạo báo cáo Word
-└── Bao_cao_danh_gia_mo_hinh_TPC.docx
 ```
 
 ## Cài đặt
