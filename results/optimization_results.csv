@@ -1,0 +1,4 @@
+﻿Method,EtOH (%),Ratio (mL/g),Temp (°C),Time (min),"Coded (A,B,C,D)",Predicted TPC (mg GAE/g),Uncertainty (std)
+RSM (2nd-Order Polynomial),76.15,19.41,62.03,88.47,"[0.08, -0.15, 0.14, -0.37]",45.01,N/A
+GPR (Gaussian Process Regression),76.13,19.36,62.09,87.88,"[0.08, -0.16, 0.14, -0.38]",45.03,0.1629
+Highest Experimental Observed,75.0,20.0,60.0,105.0,"[0.00, 0.00, 0.00, 0.00]",45.3,0.00 (Experimental)
